@@ -126,7 +126,7 @@ qm set 101 -scsi0 /dev/disk/by-id/YOUR_DISK_IDENTIFIER_HERE
 
    * **All Functions**
    * **Primary GPU** (optional)
-   * **ROM-Bar**
+   * DISABLE **ROM-Bar**
    * **PCI-Express**
 6. Repeat the process for the remaining three GPUs.
 
